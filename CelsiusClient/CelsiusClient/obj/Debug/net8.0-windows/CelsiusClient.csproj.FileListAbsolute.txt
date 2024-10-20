@@ -1,0 +1,16 @@
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\bin\Debug\net8.0-windows\CelsiusClient.exe
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\bin\Debug\net8.0-windows\CelsiusClient.deps.json
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\bin\Debug\net8.0-windows\CelsiusClient.runtimeconfig.json
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\bin\Debug\net8.0-windows\CelsiusClient.dll
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\bin\Debug\net8.0-windows\CelsiusClient.pdb
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\CelsiusClient.Form1.resources
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\CelsiusClient.csproj.GenerateResource.cache
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\CelsiusClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\CelsiusClient.AssemblyInfoInputs.cache
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\CelsiusClient.AssemblyInfo.cs
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\CelsiusClient.csproj.CoreCompileInputs.cache
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\CelsiusClient.dll
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\refint\CelsiusClient.dll
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\CelsiusClient.pdb
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\CelsiusClient.genruntimeconfig.cache
+C:\Users\Jega\source\repos\CelsiusClient\CelsiusClient\obj\Debug\net8.0-windows\ref\CelsiusClient.dll
